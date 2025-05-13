@@ -1,0 +1,8 @@
+8 quuens ,8 puzzle ,crpyarthimetic -copleted
+a* , memory bounded a* 
+constraint satisfactory problem color maping -completed
+minimax algorihtm with alpha beta pruning -completed
+proportional logic -completed
+forward chaining and backward chaining -completed
+navie bayes model -completed
+bayesian network -complted
